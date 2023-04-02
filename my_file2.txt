@@ -1,0 +1,4 @@
+To jest pierwsza linia
+a tu druga linia
+i kolejna
+tu jest jakiś tekst z bledami oczywiscie
