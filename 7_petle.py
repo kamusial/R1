@@ -17,4 +17,4 @@ print('Lista ma ',len(list1),'elementow')
 print('suma dwoch pierwszych elementow to:',suma)
 list1.append('cos nowego')   #dodanie kolejnego elementu na koniec listy
 print(list1)
-print('Teraz lista ma ',len(list1),'elementow')
+print('Teraz lista ma ', len(list1), 'elementow')
