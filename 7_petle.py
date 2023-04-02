@@ -7,11 +7,14 @@ print('pierwszy element to:', list1[0])
 print('trzeci element listy to:', list1[2])
 print('ostatni element listy to:', list1[-1])  #można liczyć od tyłu
 print('przedostatni element listy to:', list1[-2])
-
 print(type(list1))
 print(type(list1[1]))
 print(type(list1[2]))
 list1[2] = 'zmiana nazwy'
 print('3ci element listy to teraz:',list1[2])
 suma = list1[0] + list1[1]
+print('Lista ma ',len(list1),'elementow')
 print('suma dwoch pierwszych elementow to:',suma)
+list1.append('cos nowego')   #dodanie kolejnego elementu na koniec listy
+print(list1)
+print('Teraz lista ma ',len(list1),'elementow')
